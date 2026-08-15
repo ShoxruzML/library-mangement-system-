@@ -1,7 +1,3 @@
-Here's the README content as plain text:
-
----
-
 Library Management System
 
 A command-line Library Management System built with Python OOP as part of a 90-day Python learning roadmap (Week 2 challenge). Models a real library's core operations — books, members, and loans — with full test coverage.
